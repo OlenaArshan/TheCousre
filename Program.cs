@@ -13,6 +13,7 @@ namespace MyConsoleApplication
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hi again!");
             Console.WriteLine("Hi one more time!");
+            // new task
         }
     }
 }
